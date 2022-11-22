@@ -3,6 +3,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/crossnomercy/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1E05LNp8MnDouavgMbg7x6?si=aaed7e2d598b4718)
 
+
+[![Top Languanges](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/FearCross/github-readme-stats)
+
+
 <br/>
 
 ### Tecnologias do meu dia a dia 👻
