@@ -4,7 +4,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1E05LNp8MnDouavgMbg7x6?si=aaed7e2d598b4718)
 
 
-[![Top Languanges](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/FearCross/github-readme-stats)
+[![Top Languanges](https://github-readme-stats.vercel.app/api/top-langs/?username=FearCross&layout=compact)](https://github.com/FearCross/github-readme-stats)
 
 
 <br/>
