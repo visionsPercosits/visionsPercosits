@@ -5,8 +5,6 @@
 
 <br/>
 
-![Fear Cross GitHub stats](https://github-readme-stats.vercel.app/api?username=FearCross&show_icons=true&theme=dracula)
-
 ### Tecnologias do meu dia a dia 👻
 
 <div style="display": inline_block><br/>
