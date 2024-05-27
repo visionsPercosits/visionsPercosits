@@ -2,7 +2,7 @@
 
 ### Who am I?
 
-I'm 20 years old and have a passion for programming, which is not just for fun. I'm currently pursuing a degree in Applied Computer Science (ADS);
+I'm 20 years old and have a passion for programming, which is not just for fun.;
 
 ### Technologies
 
