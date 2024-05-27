@@ -2,7 +2,7 @@
 
 ### Who am I?
 
-I'm 20 years old and have a passion for programming, which is not just for fun.;
+I'm 20 years old and have a passion for programming, which is not just for fun.
 
 ### Technologies
 
