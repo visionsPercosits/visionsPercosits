@@ -1,9 +1,15 @@
-## About Me
+# About Me 👾
 
 ### Who am I?
-<img align="right" src="https://i.pinimg.com/564x/ea/d7/31/ead7318ca0235355843f025425cfecb6.jpg" alt="Cruz">
-<p>
-	Possuo 19 anos e gosto de programar, talvez não só por diversão, faço faculdade ( ADS ) e meu dia é resumido em programar.
-</p>
 
-![Typescript Badge](https://img.shields.io/badge/JavaScript-fff?style=for-the-badge&logo=javascript&logoColor=050505)  
+I'm 20 years old and have a passion for programming, which is not just for fun. I'm currently pursuing a degree in Applied Computer Science (ADS);
+
+### Technologies
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+## 💻 Programming and More
+
+- 🌱 I’m currently learning **TypeScript** and **other front-end technologies**.
+- 🔭 I'm exploring **new trends in web development** to keep my skills sharp and current.
+- ⚡ Fun fact: Currently in United States.
