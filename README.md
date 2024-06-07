@@ -12,4 +12,3 @@ I'm 20 years old and have a passion for programming, which is not just for fun.
 
 - 🌱 I’m currently learning **TypeScript** and **other front-end technologies**.
 - 🔭 I'm exploring **new trends in web development** to keep my skills sharp and current.
-- ⚡ Fun fact: Currently in United States.
