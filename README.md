@@ -50,4 +50,10 @@ Welcome to my GitHub profile! I'm passionate about software engineering, and I l
 
 ---
 
+## 🌟 Projects 2 Learn
+
+- **[Lasagna Master]([https://github.com/your-username/project-1](https://github.com/visionsPercosits/lasagna-master))**: Just learning about functions in JavaScript
+
+---
+
 ### ✨ Keep leveling up and happy coding! 🚀
