@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm passionate about software engineering, and I l
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=visionsPercosits&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=visionsPercosits)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visionsPercosits&layout=compact&theme=tokyonight&hide_border=true)
 
