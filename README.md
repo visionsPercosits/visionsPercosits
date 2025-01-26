@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm passionate about software engineering, and I l
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=visionsPercosits&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=visionsPercosits&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visionsPercosits&layout=compact&theme=tokyonight&hide_border=true)
 
