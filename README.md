@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm passionate about software engineering, and I l
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=visionsPercosits)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=visionsPercosits&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visionsPercosits&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm passionate about software engineering, and I l
 
 ## 🏋️ Consistency Graph
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=visionsPercosits&theme=tokyo-night&hide_border=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=visionsPercosits&bg_color=ffffff&color=9e4c98&line=00ecf0&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
