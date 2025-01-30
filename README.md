@@ -31,7 +31,7 @@ Welcome to my GitHub profile!
 
 ## ⚡ GitHub Strike  
 
-![GitHub Strike](https://github-readme-streak-stats.herokuapp.com/?user=visionsPercosits&theme=tokyonight&hide_border=true)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=visionsPercosits)](https://git.io/streak-stats)  
 
 ---
 
