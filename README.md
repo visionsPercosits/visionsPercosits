@@ -58,6 +58,3 @@ Welcome to my GitHub profile!
 
 - **[Lasagna Master](https://github.com/visionsPercosits/lasagna-master)**: Aprendendo sobre funções em JavaScript  
 
----
-
-### ✨ Continue evoluindo e feliz programação! 🚀  
