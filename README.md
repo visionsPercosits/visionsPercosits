@@ -54,7 +54,8 @@ Welcome to my GitHub profile!
 
 ---
 
-## 🌟 Projetos Para Aprender  
+## 🌟 Projetos 2 Learn  
 
-- **[Lasagna Master](https://github.com/visionsPercosits/lasagna-master)**: Aprendendo sobre funções em JavaScript  
+- **[Lasagna Master](https://github.com/visionsPercosits/lasagna-master)**: Aprendendo sobre funções em JavaScript
+- **[JavaScript Review](https://github.com/visionsPercosits/javascript-review)**: Revisando e aprendendo conceitos novos de JavaScript  
 
