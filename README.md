@@ -8,6 +8,7 @@ Welcome to my GitHub profile!
 
 - Amo **JavaScript**, dentre todas as outras linguagens;
 - Reversal Engineering Enthusiast;
+- Gosto de ler livros (Principalmente Hábitos Atômicos);
 
 ---
 
