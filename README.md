@@ -5,10 +5,9 @@ Welcome to my GitHub profile!
 ---
 
 ## 🚀 Sobre Mim  
-- 🔭 Atualmente explorando conceitos avançados em **JavaScript**, **TypeScript** e **Python**.  
-- 🌱 Aprendendo um pouco de **Rust** para expandir minhas habilidades em programação de sistemas.  
-- 💡 Sempre buscando aprimoramento e evoluindo minhas habilidades diariamente.  
-- 💬 Sinta-se à vontade para entrar em contato para colaborar ou discutir sobre tecnologia.  
+
+- Amo **JavaScript**, dentre todas as outras linguagens;
+- Reversal Engineering Enthusiast;
 
 ---
 
