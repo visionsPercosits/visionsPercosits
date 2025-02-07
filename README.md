@@ -1,10 +1,13 @@
 # やあ! 👋  
 
-<div align=center>
-  <a href="https://discord.com/users/936545483378290708"><img src="https://lanyard.cnrad.dev/api/936545483378290708?bg=&theme=dark&showDisplayName=true" /></a>
+<div align="center">
+  <a href="https://discord.com/users/936545483378290708">
+    <img src="https://lanyard.cnrad.dev/api/936545483378290708?bg=&theme=dark&showDisplayName=true" />
+  </a>
 </div>
 <br>
-<div align=center>
+
+<div align="center">
 
 ---
 
@@ -12,27 +15,27 @@
 
 - Amo **JavaScript**, dentre todas as outras linguagens;
 - Reversal Engineering Enthusiast;
-- Gosto de ler livros (Principalmente Hábitos Atômicos);
+- Gosto de ler livros (Principalmente *Hábitos Atômicos*);
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas  
 
-### Linguagens  
-<p align="left">
+### 🖥️ Linguagens  
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40">
 </p>
 
-### Frameworks & Bibliotecas  
-<p align="left">
+### 🚀 Frameworks & Bibliotecas  
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40">
 </p>
 
-### Ferramentas  
-<p align="left">
+### 🔧 Ferramentas  
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40">
 </p>
@@ -66,6 +69,12 @@
 
 ## 🌟 Projetos 2 Learn  
 
-- **[Lasagna Master](https://github.com/visionsPercosits/lasagna-master)**: Aprendendo sobre funções em JavaScript
-- **[JavaScript Review](https://github.com/visionsPercosits/javascript-review)**: Revisando e aprendendo conceitos novos de JavaScript  
+<details>
+  <summary><strong><span style="color: #00FF00;">Projetos para Aprender</span></strong></summary>
+  
+  - **[Lasagna Master](https://github.com/visionsPercosits/lasagna-master)**: Aprendendo sobre funções em JavaScript
+  - **[JavaScript Review](https://github.com/visionsPercosits/javascript-review)**: Revisando e aprendendo conceitos novos de JavaScript  
 
+</details>
+
+</div>
