@@ -1,6 +1,10 @@
 # やあ! 👋  
 
-Welcome to my GitHub profile!  
+<div align=center>
+  <a href="https://discord.com/users/936545483378290708"><img src="https://lanyard.cnrad.dev/api/936545483378290708?bg=&theme=dark&showDisplayName=true" /></a>
+</div>
+<br>
+<div align=center>
 
 ---
 
