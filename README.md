@@ -67,14 +67,24 @@
 
 ---
 
-## 🌟 Projetos 2 Learn  
+## 🌟 Projetos  
 
-<details>
-  <summary><strong><span style="color: #00FF00;">Projetos para Aprender</span></strong></summary>
-  
-  - **[Lasagna Master](https://github.com/visionsPercosits/lasagna-master)**: Aprendendo sobre funções em JavaScript
-  - **[JavaScript Review](https://github.com/visionsPercosits/javascript-review)**: Revisando e aprendendo conceitos novos de JavaScript  
-
-</details>
-
+<h1 align=center>
+  Projects
+</h1>
+<table align=center>
+  <tr>
+    <td>
+      <a href="https://github.com/visionsPercosits/lasagna-master">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=visionsPercosits&repo=lasagna-master&show_icons=true&bg_color=0D1117&text_color=cad3f5&icon_color=00FF00&title_color=00FF00&count_private=false&hide_border=true&hide_title=false" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/visionsPercosits/javascript-review">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=visionsPercosits&repo=javascript-review&show_icons=true&bg_color=0D1117&text_color=cad3f5&icon_color=00FF00&title_color=00FF00&count_private=false&hide_border=true&hide_title=false" />
+      </a>
+    </td>
+  </tr>
+</table>
+<br><br>
 </div>
