@@ -65,12 +65,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
 
----
-
-## 🌟 Projetos  
+---  
 
 <h1 align=center>
-  Projects
+  Projetos
 </h1>
 <table align=center>
   <tr>
