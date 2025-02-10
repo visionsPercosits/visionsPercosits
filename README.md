@@ -76,9 +76,6 @@
       <a href="https://github.com/visionsPercosits/ToDo-List">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=visionsPercosits&repo=ToDo-List&show_icons=true&bg_color=0D1117&text_color=cad3f5&icon_color=00FF00&title_color=00FF00&count_private=false&hide_border=true&hide_title=false" />
       </a>
-      <a href="https://github.com/visionsPercosits/password-generator">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=visionsPercosits&repo=password-generator&show_icons=true&bg_color=0D1117&text_color=cad3f5&icon_color=00FF00&title_color=00FF00&count_private=false&hide_border=true&hide_title=false" />
-      </a>
     </td>
   </tr>
 </table>
