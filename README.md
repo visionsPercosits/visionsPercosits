@@ -80,17 +80,3 @@
 </table>
 <br><br>
 </div>
-
-<script>
-  const textElement = document.getElementById("japanese-text");
-  const textArray = ["や", "やあ", "やあ!", "やあ! 👋", ""];
-  let index = 0;
-
-  function typeEffect() {
-    textElement.textContent = textArray[index];
-    index = (index + 1) % textArray.length;
-    setTimeout(typeEffect, 700); 
-  }
-
-  typeEffect();
-</script>
