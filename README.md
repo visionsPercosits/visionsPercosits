@@ -1,11 +1,10 @@
-# やあ! 👋  
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&width=435&lines=self-improvement+is+my+new+love." alt="Typing SVG" /></a>
+</div>
 
 <div align="center">
-  <a href="https://discord.com/users/936545483378290708">
-    <img src="https://lanyard.cnrad.dev/api/936545483378290708?bg=&theme=dark&showDisplayName=true" />
-  </a>
+  <img src="https://media.discordapp.net/attachments/1281273795084288076/1339054510923845723/0918aa18dba453f695d55f9eb05b43a7.png?ex=67ad5331&is=67ac01b1&hm=815e024aee5d65bbec8a63d44ef9ea8e5e50e0044065048deabb8194dc9defb4&=&format=webp&quality=lossless&width=768&height=358" alt="Banner" width="50%">
 </div>
-<br>
 
 <div align="center">
 
@@ -81,3 +80,17 @@
 </table>
 <br><br>
 </div>
+
+<script>
+  const textElement = document.getElementById("japanese-text");
+  const textArray = ["や", "やあ", "やあ!", "やあ! 👋", ""];
+  let index = 0;
+
+  function typeEffect() {
+    textElement.textContent = textArray[index];
+    index = (index + 1) % textArray.length;
+    setTimeout(typeEffect, 700); 
+  }
+
+  typeEffect();
+</script>
