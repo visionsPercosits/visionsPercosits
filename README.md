@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/1281273795084288076/1339054510923845723/0918aa18dba453f695d55f9eb05b43a7.png?ex=67ad5331&is=67ac01b1&hm=815e024aee5d65bbec8a63d44ef9ea8e5e50e0044065048deabb8194dc9defb4&=&format=webp&quality=lossless&width=768&height=358" alt="Banner" width="50%">
+  <img src="https://media.discordapp.net/attachments/1281273795084288076/1339054510923845723/0918aa18dba453f695d55f9eb05b43a7.png?ex=67c313f1&is=67c1c271&hm=c33f81c7606b2292890f1e530368697f38a4f4905cceeb96e06e203c0d678bfa&=&format=webp&quality=lossless&width=769&height=359" alt="Banner" width="50%">
 </div>
 
 <div align="center">
